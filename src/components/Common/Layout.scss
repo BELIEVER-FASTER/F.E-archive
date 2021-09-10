@@ -1,0 +1,29 @@
+
+.layout__main{
+    min-height:100vh;
+    .header{
+        display:flex;
+        align-items: center;
+        .logo{
+            padding-left: 10px;
+            margin-right:60px;
+            margin-top: 20px;
+        }
+        .menu{
+            flex:1;
+            margin-left:auto;
+            a{
+                color:#000;
+            }
+        }
+        &>span{
+            color:#fff;
+            margin-left:10px;
+        }
+    }
+}
+
+  
+  .site-layout-background {
+    background: #fff;
+  }

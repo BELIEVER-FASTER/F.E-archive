@@ -1,5 +1,5 @@
 import React from 'react';
-import { CalendarTooltipProps, ResponsiveCalendar } from '@nivo/calendar';
+import { ResponsiveCalendar } from '@nivo/calendar';
 import { Typography } from 'antd';
 
 const data = [

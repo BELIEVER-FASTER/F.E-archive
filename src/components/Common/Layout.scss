@@ -13,7 +13,10 @@
             flex:1;
             margin-left:auto;
             a{
-                color:#000;
+                color:#fff;
+            }
+            .ant-menu-item-selected a{
+                color:#fff;
             }
         }
         &>span{
